@@ -1,0 +1,17 @@
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\bin\Debug\net7.0\Date.deps.json
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\bin\Debug\net7.0\Date.runtimeconfig.json
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\bin\Debug\net7.0\Date.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\bin\Debug\net7.0\Date.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\bin\Debug\net7.0\Domain.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\bin\Debug\net7.0\Domain.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.csproj.AssemblyReference.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.AssemblyInfoInputs.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.AssemblyInfo.cs
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.csproj.CoreCompileInputs.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.csproj.CopyComplete
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\refint\Date.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\Date.genruntimeconfig.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Date\obj\Debug\net7.0\ref\Date.dll

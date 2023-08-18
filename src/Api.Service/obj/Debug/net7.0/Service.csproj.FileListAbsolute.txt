@@ -1,0 +1,17 @@
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\bin\Debug\net7.0\Service.deps.json
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\bin\Debug\net7.0\Service.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\bin\Debug\net7.0\Service.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\bin\Debug\net7.0\Date.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\bin\Debug\net7.0\Domain.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\bin\Debug\net7.0\Domain.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\bin\Debug\net7.0\Date.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\Service.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\refint\Service.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\Service.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Service\obj\Debug\net7.0\ref\Service.dll

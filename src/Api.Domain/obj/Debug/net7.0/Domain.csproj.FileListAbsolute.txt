@@ -1,0 +1,12 @@
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\bin\Debug\net7.0\Domain.deps.json
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\bin\Debug\net7.0\Domain.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\bin\Debug\net7.0\Domain.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\Domain.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\refint\Domain.dll
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\Domain.pdb
+c:\Users\Windows 10\CursoASPNET\src\Api.Domain\obj\Debug\net7.0\ref\Domain.dll
